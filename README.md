@@ -1,2 +1,2 @@
 # policy-documents
-Sample policy documents for small businesses
+Placeholder for sample policy documents for small businesses.
